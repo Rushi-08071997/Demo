@@ -9,6 +9,9 @@ public class RestAPI {
 	public void RestAssured()
 	{
 	System.out.println("RestAssured");
+	System.out.println("RestAssured1");
+	System.out.println("RestAssured2");
+	
 	}
 	
 	@Test
