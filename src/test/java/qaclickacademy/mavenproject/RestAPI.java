@@ -18,5 +18,7 @@ public class RestAPI {
 	public void Api()
 	{
 		System.out.println("Api");
+		System.out.println("Api2");
+		System.out.println("Api3");
 	}
 }
